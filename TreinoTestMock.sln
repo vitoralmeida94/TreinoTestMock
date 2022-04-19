@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinoTestMock", "TreinoTestMock\TreinoTestMock.csproj", "{FFCE80DE-6D33-42C6-A13C-93E22ECE8520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C773FD90-BD18-439C-9656-78D5FC5C5D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCE80DE-6D33-42C6-A13C-93E22ECE8520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCE80DE-6D33-42C6-A13C-93E22ECE8520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCE80DE-6D33-42C6-A13C-93E22ECE8520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCE80DE-6D33-42C6-A13C-93E22ECE8520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C773FD90-BD18-439C-9656-78D5FC5C5D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C773FD90-BD18-439C-9656-78D5FC5C5D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C773FD90-BD18-439C-9656-78D5FC5C5D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C773FD90-BD18-439C-9656-78D5FC5C5D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD457E4-8E09-45C6-9F37-899A4761A3D3}
+	EndGlobalSection
+EndGlobal
